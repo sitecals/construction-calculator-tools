@@ -22,6 +22,7 @@ A curated collection of **free online construction calculators** for contractors
 | Paver Calculator | Landscaping | [Use Free →](https://builtrighthq.com/tools/paver-calculator/) |
 | Gravel Calculator | Landscaping | [Use Free →](https://builtrighthq.com/tools/gravel-calculator/) |
 | Rebar Calculator | Concrete | [Use Free →](https://builtrighthq.com/tools/rebar-calculator/) |
+| Free Construction Calculators | All Trades | [Use Free →](https://freeconstructioncalculators.com/) |
 
 **[Browse all 40 calculators →](https://builtrighthq.com/best-construction-calculators/)**
 
